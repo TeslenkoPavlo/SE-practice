@@ -2,7 +2,8 @@
 
 <img src="https://github.com/liketaurus/SE-practice-template/blob/main/docs/images/resources/SE-logo-transparent.png" width="200" align="right" style="float:right;">
 
-**НАЗВА КОМАНДИ** CodeLegion
+**НАЗВА КОМАНДИ**
+  - CodeLegion
 
 
 ## **Структура репозиторію**:
