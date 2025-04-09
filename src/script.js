@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', function () {
           const hints = [
             { lat: 49.587891, lon: 34.543045, text: 'Йдіть праворуч до маленьких сходів' },
             { lat: 49.587871, lon: 34.542943, text: 'Підніміться по сходам на другий поверх' },
-            { lat: 49.587811, lon: 34.542771, text: 'Поверніть направо та йдіть до першого повороту' }
+            { lat: 49.587811, lon: 34.542771, text: 'Поверніть праворуч та йдіть до першого повороту' }
           ];
 
           const hintBox = document.getElementById('hintBox');
