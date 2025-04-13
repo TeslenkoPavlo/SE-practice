@@ -78,6 +78,8 @@ describe('Натискання на кнопку "startNavigation" прихов�
 });
 ```
 
+---
+
 ## Скріншот виконання
 ![](https://github.com/TeslenkoPavlo/SE-practice/blob/main/docs/4.Stabilizing/other/UnitTest1.png)
 
@@ -139,6 +141,11 @@ describe('Оновлюються стрілки при події deviceorientat
   });
 });
 ```
+
+---
+
+## Скріншот виконання
+![](https://github.com/TeslenkoPavlo/SE-practice/blob/main/docs/4.Stabilizing/other/UnitTest2.png)
 
 ---
 
@@ -215,6 +222,11 @@ describe("Оновлення значення дистанції при успі
 
 ---
 
+## Скріншот виконання
+![](https://github.com/TeslenkoPavlo/SE-practice/blob/main/docs/4.Stabilizing/other/UnitTest3.png)
+
+---
+
 ## UnitTest4.js
 ```javascript
 /**
@@ -286,6 +298,11 @@ describe("Відображення destinationModal та робота кнопк
 
 ---
 
+## Скріншот виконання
+![](https://github.com/TeslenkoPavlo/SE-practice/blob/main/docs/4.Stabilizing/other/UnitTest4.png)
+
+---
+
 ## UnitTest5.js
 ```javascript
 /**
@@ -347,6 +364,11 @@ describe("Відображення підказки (hintBox) при набли�
 
 ---
 
+## Скріншот виконання
+![](https://github.com/TeslenkoPavlo/SE-practice/blob/main/docs/4.Stabilizing/other/UnitTest5.png)
+
+---
+
 ## UnitTest6.js
 ```javascript
 /**
@@ -400,3 +422,8 @@ describe("Обробка помилки геолокації з кодом 1", (
     });
 });
 ```
+
+---
+
+## Скріншот виконання
+![](https://github.com/TeslenkoPavlo/SE-practice/blob/main/docs/4.Stabilizing/other/UnitTest6.png)
