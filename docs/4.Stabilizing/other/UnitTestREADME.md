@@ -78,6 +78,9 @@ describe('Натискання на кнопку "startNavigation" прихов�
 });
 ```
 
+## Скріншот виконання
+![](https://github.com/TeslenkoPavlo/SE-practice/blob/main/docs/4.Stabilizing/other/UnitTest1.png)
+
 ---
 
 ## UnitTest2.js
